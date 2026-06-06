@@ -1,0 +1,20 @@
+# Secrets & tokens
+.env
+*.token
+*_token*
+*secret*
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# OpenClaw runtime
+.openclaw/workspace-state.json
+
+# IDE
+.vscode/
+.idea/
