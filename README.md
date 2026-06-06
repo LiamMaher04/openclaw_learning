@@ -1,25 +1,14 @@
 # Agent 0.1 — Skillz Camps Operations Agent
 
-Built at the **Give(a)Go OpenClaw Event #1** — June 6, 2026 at Baseline, Dublin.
+I built this at the **Give(a)Go OpenClaw Event #1** — a Saturday afternoon at Baseline in Dublin, coffee in hand, figuring out how to make an AI agent actually useful for my business.
 
-## The Event
+OpenClaw is a personal AI agent that runs on your own machine — not someone else's cloud, not a SaaS dashboard. It reads your files, talks to your apps, searches the web, and messages you through Telegram or WhatsApp like a real teammate. No engineering background required. The whole thing runs locally.
 
-OpenClaw is a personal AI agent that runs on your own machine — a laptop, a Mac Mini, a Raspberry Pi, or a VPS — and actually does things: runs commands, browses the web, manages files, and talks to your apps. You reach it through WhatsApp, Telegram, or whatever chat app you already use. No engineering background required.
-
-This was the first of a three-event OpenClaw series in June 2026. The goal: leave with OpenClaw alive, connected to a messaging app, with a personality you've written, doing at least one real thing.
-
-**Run of show:**
-- 11:00 — Doors open, coffee
-- 11:30 — Intro and setup overview
-- 12:00 — Build time
-- 13:00 — Lunch
-- 13:45 — Back to building
-- 15:30 — Share what you've got running
-- 16:00 — Close
+This was the first of three OpenClaw events this June. By the end of the afternoon I had an agent with a personality, connected to Notion and Telegram, already flagging things in my content calendar that I'd missed. Not bad for a few hours.
 
 ## What I Built
 
-**Agent 0.1** — an AI operations agent for [Skillz Camps](https://skillzcamps.com), a Dublin-based youth sports organisation running hockey academies, holiday camps, and sports equipment sales.
+**Agent 0.1** — an AI operations agent for [Skillz Camps](https://skillzcamps.com), the youth sports business I co-founded. We run hockey academies, holiday camps, and sell hockey equipment in Dublin.
 
 ### Stack
 
@@ -74,15 +63,6 @@ SSH key configured for WSL2 → GitHub push/pull.
 
 ---
 
-## Next Steps
-
-1. Connect Wix for bookings data (required for Weekly Bookings Digest and Camp Capacity Monitor workflows)
-2. Connect Gmail and Google Calendar
-3. Process and categorise full Tasks database
-4. Complete remaining PoC workflows
-5. Build MEMORY.md from daily session logs
-6. Add team members to Telegram pairing
-
 ---
 
-*Built by [Liam Maher](https://github.com/LiamMaher04) during Give(a)Go OpenClaw Event #1 · Dublin, June 2026*
+*Built by me, [Liam Maher](https://github.com/LiamMaher04), at Give(a)Go OpenClaw Event #1 — Dublin, June 2026*
