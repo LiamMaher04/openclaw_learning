@@ -60,11 +60,11 @@ This was the first of a three-event OpenClaw series in June 2026. The goal: leav
 
 ### Key Business Context Loaded
 
-- **Brand voice**: Electric Blue (#00a1ff), Deep Navy (#0A1628). No "Field Hockey". 5 hashtag max on Instagram. First person plural on LinkedIn.
-- **Partnerships pipeline**: KidsCraft.com exploratory call (May 5, 2026) — free trial for first 20 providers, cross-promotion discussed.
-- **Basketball Launch**: June 20, 2026 — content pipeline in motion. 4-phase launch checklist in Notion.
-- **Academy expansion**: Targeting 10 UK locations by 2028, starting with Battersea.
-- **11 past events** documented across 3 verticals.
+- **Brand voice**: Public-facing tone, colours, hashtag rules, platform conventions
+- **Partnerships pipeline**: Exploratory stages — cross-promotion and sponsorship opportunities being evaluated
+- **Marketing calendar**: Upcoming launch events with multi-phase content pipelines in motion
+- **Expansion planning**: New market entry programme in development
+- **Historical events**: Past programme data documented for reference
 
 ### GitHub
 

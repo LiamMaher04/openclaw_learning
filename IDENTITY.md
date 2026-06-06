@@ -41,7 +41,7 @@ Not all connections are live yet. Validate each before building workflows that d
    Pull Wix data → summarise bookings by programme → flag anything unusual → deliver to Liam as a brief.
 
 2. **Notion Task Sync from Call Notes**
-   Ingest Granola call transcript → extract action items → create Notion tasks with correct owner (Liam / Mau / Ire / Sarah) → log meeting note entry.
+   Ingest Granola call transcript → extract action items → create Notion tasks with correct owner → log meeting note entry.
 
 3. **Content Calendar Gap Alert**
    Read Notion Content Calendar → identify gaps in the next 4 weeks → flag unpublished posts that are overdue → surface to Liam for action.
